@@ -1,0 +1,61 @@
+{
+  "passed": 4,
+  "total": 5,
+  "cases": [
+    {
+      "prompt": "who was akbar?",
+      "expected": [
+        "who was akbar?"
+      ],
+      "got": [
+        "general"
+      ],
+      "pass": false,
+      "reason": "Mismatch (expected ['who was akbar?'], got ['general'])"
+    },
+    {
+      "prompt": "close notepad",
+      "expected": [
+        "close notepad"
+      ],
+      "got": [
+        "close"
+      ],
+      "pass": true,
+      "reason": "Semantically similar"
+    },
+    {
+      "prompt": "who was akbar?",
+      "expected": [
+        "general who was akbar?"
+      ],
+      "got": [
+        "general"
+      ],
+      "pass": true,
+      "reason": "Semantically similar"
+    },
+    {
+      "prompt": "set a reminder at 9 pm for dinner",
+      "expected": [
+        "reminder 9 pm dinner"
+      ],
+      "got": [
+        "reminder"
+      ],
+      "pass": true,
+      "reason": "Semantically similar"
+    },
+    {
+      "prompt": "today's top news",
+      "expected": [
+        "realtime today's top news"
+      ],
+      "got": [
+        "realtime"
+      ],
+      "pass": true,
+      "reason": "Semantically similar"
+    }
+  ]
+}

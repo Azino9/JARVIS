@@ -1,0 +1,35 @@
+Here's a sample application for sick leave due to fever:
+
+**Application for Sick Leave**
+
+**Date:** [Current Date]
+
+**To,**
+[Recipient's Name]
+[Recipient's Title]
+[Company/Organization Name]
+[Company/Organization Address]
+
+**Subject:** Request for Sick Leave due to Fever
+
+Dear [Recipient's Name],
+
+I am writing to request a sick leave for [number] days, from [start date] to [end date], as I am currently unwell with a fever. Due to my health condition, I am unable to come to work and perform my duties effectively.
+
+I apologize for any inconvenience this may cause and assure you that I will make up for the lost time once I am back on duty. I will ensure that my work is caught up and completed as soon as I return to work.
+
+I would appreciate it if you could approve my request for sick leave. If there are any urgent matters that need my attention in the meantime, please let me know and I will do my best to address them remotely.
+
+Thank you for your understanding and support.
+
+**Sincerely,**
+
+MOHIT KUMAR SAMAL
+
+**Employee ID:** [Your Employee ID]
+
+**Contact Number:** [Your Contact Number]
+
+**Email:** [Your Email]
+
+**Note:** Please customize the application according to your company's policies and procedures, and provide any necessary documents or medical certificates to support your request.

@@ -1,0 +1,7 @@
+[
+  {"prompt": "who was akbar?", "expected": ["who was akbar?"]},
+  {"prompt": "close notepad", "expected": ["close notepad"]},
+  {"prompt": "who was akbar?", "expected": ["general who was akbar?"]},
+  {"prompt": "set a reminder at 9 pm for dinner", "expected": ["reminder 9 pm dinner"]},
+  {"prompt": "today's top news", "expected": ["realtime today's top news"]}
+]
